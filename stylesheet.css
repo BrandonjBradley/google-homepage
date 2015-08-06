@@ -1,0 +1,108 @@
+.icons
+{
+	margin: 1em .2em .2em .2em;
+	height: 32px;
+	width: 32px;
+}
+
+.labels
+{
+margin:auto;
+margin-left: .3em;
+margin-right: .3em;
+font-size: 15px;
+}
+
+#toolbar
+{
+	width: 100%;
+	height: 5em;
+	text-align: right;
+}
+
+#user
+{
+	color: gray;
+}
+
+#toolbarLinks 
+{
+	text-decoration: none;
+	color: black;	
+}
+
+#toolbarLinks:hover
+{
+	text-decoration: underline;
+}
+
+#toolbarItems
+{
+	display: inline;
+}
+
+#logoHolder
+{
+	width: 100%;
+	height:20em;
+}
+
+#logo
+{
+	margin-top: 8em;
+	margin-left: 27%;
+	position: absolute;
+}
+
+#searchBar
+{
+	width: 55%;
+	height: 2em;
+	margin-left: 21%;
+	border: solid .1em gray;
+	color: black;
+}
+
+#search
+{
+	margin-top: 1em;
+	margin-left: 40%;
+	height:2.5em;
+	font-weight: bold;
+}
+
+#lucky
+{
+	margin-left: 1em;
+	height: 2.5em;
+	font-weight: bold;
+}
+
+footer
+{
+	background-color:#E9E9F0;
+	height:50px;
+	width:100%;
+	border-top:solid 1px #D9D9DB;
+	position:absolute;
+	bottom:0;
+	left:0;
+}
+
+footer li 
+{
+	display:inline-block;
+	padding: 0 5px;
+	color: gray;
+}
+
+#list1 
+{
+	float: left;
+}
+
+#list2
+{
+	padding-right:40px;
+	float: right;
+}
